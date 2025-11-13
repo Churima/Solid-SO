@@ -23,8 +23,8 @@ interface Shape {
   }
   
   const shapes: Shape[] = [
-    new Circle(5),
-    new Rectangle(10, 20),
+    new Circle(10),
+    new Rectangle(50, 60),
   ];
   
   const calculator = new AreaCalculator();
