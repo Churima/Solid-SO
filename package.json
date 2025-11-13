@@ -1,0 +1,16 @@
+{
+  "name": "solid-patter",
+  "version": "1.0.0",
+  "description": "SO",
+  "main": "index.js",
+  "scripts": {
+    "ocp": "ts-node src/OCP/OpenClosedPrinciple.ts",
+    "srp": "ts-node src/SRP/SingleResponsibilityPrinciple.ts"
+  },
+  "author": "Churima",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
